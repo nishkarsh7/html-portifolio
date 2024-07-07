@@ -1,0 +1,43 @@
+*{
+    background-color: black;
+    color: aliceblue;
+    
+}
+h2{
+     color: azure;
+     text-align: center;
+     
+
+}
+h3{
+    color: aliceblue;
+    text-align: center;
+}
+h1{
+    color:aliceblue;
+    font-size: larger;
+    text-align: left;
+
+}
+p{
+    color: azure;
+    font-size: x-large;
+    text-align: right;
+}
+.para_graph{
+    float: right;
+}
+.picture1{
+    width: 0px;
+    height: 0px;
+}
+fieldset{
+    color: aliceblue;
+    font-size: x-large;
+}
+textarea{
+    color: aliceblue;
+}
+#name{
+    color: aliceblue;
+}
